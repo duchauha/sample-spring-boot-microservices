@@ -1,5 +1,5 @@
 # sample-spring-boot-microservices
-Sample Sprint boot microservices learning project without much focusing on code quality .  It includes following 
+Sample Sprint boot microservices learning project without much focusing on code quality .  It includes following :- 
 1) Two simple microservices users and departments
 2) Service registry and gateway using netflix eureka client and server.
 3) Log tracing using trace id and span id using zipkin and sleuth.
